@@ -19,8 +19,3 @@ gender.get() # Returns gender and pronouns
 ## License
 
 MIT, but I hope you aren't actually thinking of using this
-
-Example
-
-License
-MIT, but I hope you aren't actually thinking of using this
